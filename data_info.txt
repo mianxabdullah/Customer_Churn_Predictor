@@ -1,0 +1,57 @@
+Numerical:
+    tenure 1
+    MonthlyCharges 55.2
+    TotalCharges 29.85
+
+Multi-Class Categorical: 
+    MultipleLines Yes/No/No phone service
+    OnlineSecurity Yes/No/No InternetService
+    Contract Month-to-month/One year/two year
+    PaymentMethod mailed check/electronic check/credit card/bank tansfer ...
+    InternetService DSL/Fibre Optics/No
+    OnlineBackup No/Yes/No InternetService
+    DeviceProtection Yes/No/No InternetService
+    TechSupport Yes/No/No InternetService
+    StreamingTV Yes/No/No InternetService
+    StreamingMovies Yes/No/No InternetService
+
+Binary Categorical:
+    gender Female/Male
+    SeniorCitizen 0/1
+    Partner Yes/No
+    Dependents No/Yes
+    PhoneService No/Yes
+    PaperlessBilling Yes/No
+
+Target:
+    Churn Yes/No
+
+Identifier: 
+    customerID 7590-VHVEG
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
